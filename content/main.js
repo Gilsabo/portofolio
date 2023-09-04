@@ -27,17 +27,17 @@ export const attributes = {
   features: [
     {
       icon: 'monitor-screenshot',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'Visually appealing design with clear, concise information presentation.\n',
       title: 'UI/UX',
     },
     {
       icon: 'draw',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: "Memorable and distinctive logo that effectively conveys the brand's identity.\n",
       title: 'Logo Design',
     },
     {
       icon: 'xml',
-      text: 'Visually appealing design with clear, concise information presentation.\n',
+      text: 'Efficient and responsive web development, optimizing performance across devices and browsers.\n',
       title: 'Web Development',
     },
   ],
