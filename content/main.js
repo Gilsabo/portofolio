@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portfolio',
       text: 'Portfolio',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: 'I am Gil, and I create',
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#about', text: 'About me' },
     social: {
@@ -22,7 +22,7 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'I am a self-taught front-end developer with a passion for coding and creating beautiful, user-friendly websites. I am currently looking for opportunities to work with a company where I can grow my skills and contribute to meaningful projects.',
   },
   features: [
     {
@@ -82,5 +82,5 @@ export const attributes = {
     ],
     title: 'My work',
   },
-  footer: { text: '© John Doe' },
+  footer: { text: '© GSB' },
 };
