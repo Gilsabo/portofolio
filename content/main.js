@@ -37,7 +37,7 @@ export const attributes = {
     },
     {
       icon: 'xml',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'Visually appealing design with clear, concise information presentation.\n',
       title: 'Web Development',
     },
   ],
